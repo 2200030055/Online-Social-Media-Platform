@@ -1,0 +1,1 @@
+A web-based social media platform developed using Django, Python, HTML, CSS, and MySQL. Users can create accounts, manage their profiles, share posts, follow other users, and interact with posts through likes and comments. The platform provides user authentication and an interactive interface for connecting and sharing content.
